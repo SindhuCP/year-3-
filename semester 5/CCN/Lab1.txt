@@ -1,0 +1,60 @@
+
+Physical Address    Transport Name                                            
+=================== ==========================================================
+28-6B-35-5A-69-55   \Device\Tcpip_{B782899C-CE68-4EBA-9E1B-2351DD157C87}      
+
+Windows IP Configuration
+
+
+Ethernet adapter vEthernet (WSL):
+
+   Connection-specific DNS Suffix  . : 
+   Link-local IPv6 Address . . . . . : fe80::92d4:a50c:dfbf:7c03%31
+   IPv4 Address. . . . . . . . . . . : 172.22.192.1
+   Subnet Mask . . . . . . . . . . . : 255.255.240.0
+   Default Gateway . . . . . . . . . : 
+
+Wireless LAN adapter Local Area Connection* 1:
+
+   Media State . . . . . . . . . . . : Media disconnected
+   Connection-specific DNS Suffix  . : 
+
+Wireless LAN adapter Local Area Connection* 2:
+
+   Media State . . . . . . . . . . . : Media disconnected
+   Connection-specific DNS Suffix  . : 
+
+Wireless LAN adapter Wi-Fi:
+
+   Connection-specific DNS Suffix  . : 
+   IPv6 Address. . . . . . . . . . . : 2401:4900:6300:45c0:60d0:fafd:67af:6d19
+   Temporary IPv6 Address. . . . . . : 2401:4900:6300:45c0:8caf:c36:5ff7:ce2d
+   Link-local IPv6 Address . . . . . : fe80::c375:7701:c3ed:c252%12
+   IPv4 Address. . . . . . . . . . . : 192.168.43.224
+   Subnet Mask . . . . . . . . . . . : 255.255.255.0
+   Default Gateway . . . . . . . . . : fe80::bc06:c2ff:fe75:5b78%12
+                                       192.168.43.45
+IP V4 OF THE WIFI :
+Pinging 192.168.43.224 with 32 bytes of data:
+Reply from 192.168.43.224: bytes=32 time<1ms TTL=128
+Reply from 192.168.43.224: bytes=32 time<1ms TTL=128
+Reply from 192.168.43.224: bytes=32 time<1ms TTL=128
+Reply from 192.168.43.224: bytes=32 time<1ms TTL=128
+
+Ping statistics for 192.168.43.224:
+    Packets: Sent = 4, Received = 4, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 0ms, Maximum = 0ms, Average = 0ms
+
+
+DEFAULT OF THE WIFI
+Pinging 192.168.43.45 with 32 bytes of data:
+Reply from 192.168.43.45: bytes=32 time=32ms TTL=64
+Reply from 192.168.43.45: bytes=32 time=10ms TTL=64
+Reply from 192.168.43.45: bytes=32 time=53ms TTL=64
+Reply from 192.168.43.45: bytes=32 time=17ms TTL=64
+
+Ping statistics for 192.168.43.45:
+    Packets: Sent = 4, Received = 4, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 10ms, Maximum = 53ms, Average = 28ms
